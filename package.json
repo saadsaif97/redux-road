@@ -1,0 +1,23 @@
+{
+  "name": "redux-road",
+  "version": "1.0.0",
+  "description": "learnt the core redux concept building game",
+  "main": "redux-prac.js",
+  "dependencies": {
+    "redux": "^4.0.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saadsaif97/redux-road.git"
+  },
+  "author": "saad-saif",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saadsaif97/redux-road/issues"
+  },
+  "homepage": "https://github.com/saadsaif97/redux-road#readme"
+}
