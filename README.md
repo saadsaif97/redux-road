@@ -10,5 +10,5 @@ In this project I built an adventure game using reducers, state, and actions. Th
 * They are not allowed to modify the existing state. Rather they should return new state.
 * They must not do any asynchronous logic or other “side effects”.
 
-#### in redux, one way data flow is as:
-Store → View → Actions → Store
+in redux, one way data flow is as:
+#### Store → View → Actions → Store
